@@ -120,4 +120,7 @@ insert into test.availability (property_id, start_date, end_date, is_blocked) va
 ```
 
 
+![db](db.PNG)
+
+
 
